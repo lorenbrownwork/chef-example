@@ -2,7 +2,7 @@
 # apply configuration to a server.
 
 file 'c:\\example.txt' do
-  content 'This is just a test'
+  content 'One-Two One-Two, This is just a test'
 end
 
 # For more information, see the documentation: https://docs.chef.io/essentials_cookbook_recipes.html
