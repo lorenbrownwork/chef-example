@@ -1,5 +1,5 @@
 name 'example'
 description 'An example cookbook'
-version '1.0.2'
+version '1.0.3'
 maintainer 'Pariveda Solutions'
 maintainer_email 'loren.brown@parivedasolutions.com'
