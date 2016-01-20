@@ -1,6 +1,6 @@
 {
     "name": "qa",
-    "description": "This is an example environment defined as JSON",
+    "description": "This is the QA Environment",
     "chef_type": "environment",
     "json_class": "Chef::Environment",
     "default_attributes": {
